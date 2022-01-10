@@ -404,7 +404,7 @@ body {
     font-size: 14px;
   }
   .about .video-box {
-    background: url("assets/img/about-img.jpg") center center no-repeat;
+    background: url("about-img.jpg") center center no-repeat;
     background-size: cover;
     min-height: 500px;
   }
